@@ -1,0 +1,9 @@
+h2. Overview
+
+A simple addon that displays a layout guide for helping position UI elements in an effective manner for clean UI design.
+
+Toggle the guides by typing /layoutguides.
+
+h2. Bugs and Suggestions
+
+Please post any bugs and suggestions on my GitHub project page: TBD

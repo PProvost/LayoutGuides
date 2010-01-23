@@ -1,0 +1,15 @@
+## Interface: 30300
+## Title: LayoutGuides
+## Notes: Shows a set of UI layout guides for building custom user interfaces
+## Author: Quaiche
+## Version: 1.0
+## X-Category: Misc
+## X-Usage: Type /layoutguides to toggle the display
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
+libs\LibStub.lua
+libs\tekKonfigAboutPanel.lua
+
+LayoutGuides.lua
